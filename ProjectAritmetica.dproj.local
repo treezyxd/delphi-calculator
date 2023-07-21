@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/07/20 21:30:09.848,=C:\Users\treezy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 21:30:41.423,C:\Users\treezy\Documents\Embarcadero\Studio\Projects\ExpressaoAritmetica\Aritmetica.dfm=C:\Users\treezy\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/20 21:30:41.423,C:\Users\treezy\Documents\Embarcadero\Studio\Projects\ExpressaoAritmetica\Aritmetica.pas=C:\Users\treezy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 21:31:08.028,C:\Users\treezy\Documents\Embarcadero\Studio\Projects\ExpressaoAritmetica\ProjectAritmetica.dproj=C:\Users\treezy\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
